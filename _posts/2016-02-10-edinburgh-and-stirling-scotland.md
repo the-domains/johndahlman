@@ -6,31 +6,31 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Edinburgh, Stirling, Princes Street Park'
-datePublished: '2016-02-10T22:45:11.171Z'
-dateModified: '2016-02-10T22:42:22.459Z'
+datePublished: '2016-02-10T22:54:25.730Z'
+dateModified: '2016-02-10T22:54:22.870Z'
 title: 'Edinburgh & Stirling Scotland'
 author: []
+sourcePath: _posts/2016-02-10-edinburgh-and-stirling-scotland.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-edinburgh-and-stirling-scotland.md
-published: true
 url: edinburgh-and-stirling-scotland/index.html
 _type: Article
 
 ---
-Scotland over the last three years. Mostly Edinburgh, with a bit of Stirling Castle. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1cfffa5-4cc2-4bc7-a92e-11fc7472ee73.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb964e57-e137-4346-95cc-d79ede937cf7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08371457-a0f9-428c-b5a6-fdc83a8ceb0a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f46dcb8-a9b0-4ff0-a948-04a57c644c96.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46750f6c-417c-41d3-b39c-af153efc661e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84656420-cdf6-4636-a1c7-aa892d2d0150.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59f520a8-3f50-455d-9dd0-0bf2cd6b35ed.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab66eb81-a327-4bb1-8284-d026f80dac76.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45c20b55-2079-40ed-b9d0-a38b04ed4728.jpg)
+Scotland over the last three years. Mostly Edinburgh, with a bit of Stirling Castle. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/24db5af24b11d2622d732d7a0435a37d28a99386.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/442d2d137ea5c71ee2d0286706dda5fbccd22bfb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcb2cd876e801ec5426ddce3ab054d043383b7e4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d96593eaf569b46c0c7a789e1c6c512049f8ba07.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b6d0bda223ae573decb4aaf42f4ee8df8792f0f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2899b1366eb21ce741741ac57b9e8a90573d6321.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca947808b559732e94109ca397bbb925c8bd247d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7466b9a354c71965a00cdd0022c82f0d9fa8a305.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4c886b2c2fc106b991b3918f6ef295dbcaaf014.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e4e943-9290-4ded-bcc2-354ec7179097.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a2945ef-ba3d-428d-85a1-4d7e07e7feee.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e6729ac-0c8e-4be4-bc1a-5538b2e2d3da.jpg)
