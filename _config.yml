@@ -1,0 +1,28 @@
+name: johndahlman
+favicon: null
+layout_spectrum: 0.17739511677064002
+typography_spectrum: 0.6021606584545225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#33322e'
+    - '#000207'
+    - '#c5bfa1'
+    - '#fefefe'
+    - '#901fd1'
+  brandStrength: 0.27516121859662235
+  lightness: 0.9196043568663299
+  saturation: 0.9538343586027622
+  rhythmicContrast: 0.5354217984713614
+purpose: []
