@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: first time out
-datePublished: '2016-02-10T17:57:13.073Z'
-dateModified: '2016-02-10T17:56:15.741Z'
+datePublished: '2016-02-10T19:20:01.592Z'
+dateModified: '2016-02-10T19:19:58.601Z'
 title: First Test
 author: []
+sourcePath: _posts/2016-02-10-first-test.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-first-test.md
-published: true
 url: first-test/index.html
 _type: Article
 
