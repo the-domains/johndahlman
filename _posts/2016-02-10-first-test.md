@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: first time out
-datePublished: '2016-02-10T19:22:02.446Z'
-dateModified: '2016-02-10T19:21:59.721Z'
+datePublished: '2016-02-10T19:24:35.468Z'
+dateModified: '2016-02-10T19:24:32.683Z'
 title: First Test
 author: []
 sourcePath: _posts/2016-02-10-first-test.md
@@ -26,4 +26,4 @@ First try with the new host. I have high hopes!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d2ec6755cde9e118997e51eb820f403f49820a9.jpg)
 
 More to come ...
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75350d4dc90202bb65f4b07ef559cfed8d34bc9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/552ab2dc-3729-4c75-9300-dfd94b8a7a03.jpg)
