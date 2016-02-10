@@ -1,7 +1,7 @@
 name: johndahlman
 favicon: null
-layout_spectrum: 0.97334
-typography_spectrum: 0.75965
+layout_spectrum: 0.17739511677064002
+typography_spectrum: 0.6021606584545225
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#33322e'
-    - '#000207'
-    - '#c5bfa1'
-    - '#fefefe'
-    - '#901fd1'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
   brandStrength: 0.27516121859662235
   lightness: 0.9196043568663299
   saturation: 0.9538343586027622
