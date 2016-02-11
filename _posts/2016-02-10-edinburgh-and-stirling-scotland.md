@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Edinburgh, Stirling, Princes Street Park'
-datePublished: '2016-02-11T00:10:25.630Z'
-dateModified: '2016-02-10T23:29:42.395Z'
+datePublished: '2016-02-11T00:45:12.020Z'
+dateModified: '2016-02-11T00:45:06.332Z'
 title: 'Edinburgh & Stirling Scotland'
 author: []
 sourcePath: _posts/2016-02-10-edinburgh-and-stirling-scotland.md
@@ -54,4 +54,4 @@ Scotland over the last three years. Mostly Edinburgh, with a bit of Stirling Cas
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7260ee321901697e556487ed6681f36260b1d51.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0539b145a6d6d33604b2bff3bfec2e86c8d67de4.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b408703fb9f2c7946563489bc3ae89b98f6d9c73.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72fd0ba5cb302253f3c025afa428512a714e2cbb.jpg)
+![Camera Obscura & The Tron](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2efcf942cc93f0b9e37746a2829ff67e6f3a04e3.jpg)
