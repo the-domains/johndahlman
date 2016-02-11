@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Edinburgh, Stirling, Princes Street Park'
-datePublished: '2016-02-10T23:09:54.589Z'
-dateModified: '2016-02-10T23:09:50.367Z'
+datePublished: '2016-02-11T00:10:25.630Z'
+dateModified: '2016-02-10T23:29:42.395Z'
 title: 'Edinburgh & Stirling Scotland'
 author: []
 sourcePath: _posts/2016-02-10-edinburgh-and-stirling-scotland.md
