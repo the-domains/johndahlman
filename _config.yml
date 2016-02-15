@@ -1,20 +1,8 @@
-title: "John Dahlman's home on the web"
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.9055649
-favicon: null
 name: johndahlman
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.9055649
+typography_spectrum: 0.75965
+title: "John Dahlman's home on the web"
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.6795953
-  lightness: 0.4375
-  saturation: 0.7386172
-  rhythmicContrast: 0.75
   brandColors:
     - '#050505'
     - '#ACACAC'
     - '#393939'
     - '#777777'
     - '#FCFCFC'
-typography_spectrum: 0.75965
+  brandStrength: 0.375
+  lightness: 0.375
+  saturation: 0.1875
+  rhythmicContrast: 1
+purpose: []
