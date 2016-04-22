@@ -1,6 +1,6 @@
 name: johndahlman
 favicon: null
-layout_spectrum: 0.08044
+layout_spectrum: 0.92263
 typography_spectrum: 0.75965
 title: "John Dahlman's home on the web"
 collections:
@@ -34,8 +34,8 @@ color:
     - '#393939'
     - '#777777'
     - '#FCFCFC'
-  brandStrength: 0.375
-  lightness: 0.25
-  saturation: 0.1875
+  brandStrength: 0.8125
+  lightness: 0.4375
+  saturation: 0.0625
   rhythmicContrast: 1
 purpose: []
